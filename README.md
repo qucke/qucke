@@ -11,8 +11,3 @@
 *   **Инструменты:** Git, Linux
 *   **Изучаю:** C++
 
-### 📈 Статистика
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНЕЙМ&show_icons=true&theme=radical)](https://github.com/qucke)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИКНЕЙМ&layout=compact&theme=radical)](https://github.com/qucke)
-
