@@ -14,8 +14,8 @@
 - Python 🐍
 
 #### **Frontend**
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 #### **Инструменты**
 - Git 📊
